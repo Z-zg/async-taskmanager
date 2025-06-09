@@ -1,0 +1,6 @@
+2025-06-09 22:24:35.367 [pool-1-thread-5] INFO  TaskLogger-8d74eb35-14dd-4858-a005-0b8f19ddfea8 - DemoTask: Starting execution for task 'TaskF' (ID: 8d74eb35-14dd-4858-a005-0b8f19ddfea8).
+2025-06-09 22:24:35.492 [pool-1-thread-5] INFO  TaskLogger-8d74eb35-14dd-4858-a005-0b8f19ddfea8 - DemoTask: Progress - Processing step 1 of 5, 20%
+2025-06-09 22:24:35.969 [pool-1-thread-5] INFO  TaskLogger-8d74eb35-14dd-4858-a005-0b8f19ddfea8 - DemoTask: Progress - Processing step 2 of 5, 40%
+2025-06-09 22:24:36.177 [pool-1-thread-5] INFO  TaskLogger-8d74eb35-14dd-4858-a005-0b8f19ddfea8 - DemoTask: Progress - Processing step 3 of 5, 60%
+2025-06-09 22:24:36.383 [pool-1-thread-5] INFO  TaskLogger-8d74eb35-14dd-4858-a005-0b8f19ddfea8 - DemoTask: Progress - Processing step 4 of 5, 80%
+2025-06-09 22:24:36.383 [pool-1-thread-5] ERROR TaskLogger-8d74eb35-14dd-4858-a005-0b8f19ddfea8 - DemoTask: Simulated failure at step 5.

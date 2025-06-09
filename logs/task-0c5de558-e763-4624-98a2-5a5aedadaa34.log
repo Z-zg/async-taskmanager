@@ -1,0 +1,12 @@
+2025-06-09 22:24:34.956 [pool-1-thread-3] INFO  TaskLogger-0c5de558-e763-4624-98a2-5a5aedadaa34 - DemoTask: Starting execution for task 'TaskD' (ID: 0c5de558-e763-4624-98a2-5a5aedadaa34).
+2025-06-09 22:24:35.275 [pool-1-thread-3] INFO  TaskLogger-0c5de558-e763-4624-98a2-5a5aedadaa34 - DemoTask: Progress - Processing step 1 of 10, 10%
+2025-06-09 22:24:35.701 [pool-1-thread-3] INFO  TaskLogger-0c5de558-e763-4624-98a2-5a5aedadaa34 - DemoTask: Progress - Processing step 2 of 10, 20%
+2025-06-09 22:24:36.127 [pool-1-thread-3] INFO  TaskLogger-0c5de558-e763-4624-98a2-5a5aedadaa34 - DemoTask: Progress - Processing step 3 of 10, 30%
+2025-06-09 22:24:36.550 [pool-1-thread-3] INFO  TaskLogger-0c5de558-e763-4624-98a2-5a5aedadaa34 - DemoTask: Progress - Processing step 4 of 10, 40%
+2025-06-09 22:24:36.801 [pool-1-thread-3] INFO  TaskLogger-0c5de558-e763-4624-98a2-5a5aedadaa34 - DemoTask: Progress - Processing step 5 of 10, 50%
+2025-06-09 22:24:37.150 [pool-1-thread-3] INFO  TaskLogger-0c5de558-e763-4624-98a2-5a5aedadaa34 - DemoTask: Progress - Processing step 6 of 10, 60%
+2025-06-09 22:24:37.625 [pool-1-thread-3] INFO  TaskLogger-0c5de558-e763-4624-98a2-5a5aedadaa34 - DemoTask: Progress - Processing step 7 of 10, 70%
+2025-06-09 22:24:38.003 [pool-1-thread-3] INFO  TaskLogger-0c5de558-e763-4624-98a2-5a5aedadaa34 - DemoTask: Progress - Processing step 8 of 10, 80%
+2025-06-09 22:24:38.115 [pool-1-thread-3] INFO  TaskLogger-0c5de558-e763-4624-98a2-5a5aedadaa34 - DemoTask: Progress - Processing step 9 of 10, 90%
+2025-06-09 22:24:38.300 [pool-1-thread-3] INFO  TaskLogger-0c5de558-e763-4624-98a2-5a5aedadaa34 - DemoTask: Progress - Processing step 10 of 10, 100%
+2025-06-09 22:24:38.300 [pool-1-thread-3] INFO  TaskLogger-0c5de558-e763-4624-98a2-5a5aedadaa34 - DemoTask: Completed successfully for task 'TaskD' (ID: 0c5de558-e763-4624-98a2-5a5aedadaa34).

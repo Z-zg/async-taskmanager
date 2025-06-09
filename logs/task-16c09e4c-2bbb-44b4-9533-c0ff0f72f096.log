@@ -1,0 +1,6 @@
+2025-06-09 22:24:35.977 [pool-1-thread-2] INFO  TaskLogger-16c09e4c-2bbb-44b4-9533-c0ff0f72f096 - DemoTask: Starting execution for task 'TaskC' (ID: 16c09e4c-2bbb-44b4-9533-c0ff0f72f096).
+2025-06-09 22:24:36.144 [pool-1-thread-2] INFO  TaskLogger-16c09e4c-2bbb-44b4-9533-c0ff0f72f096 - DemoTask: Progress - Processing step 1 of 14, 7%
+2025-06-09 22:24:36.309 [pool-1-thread-2] INFO  TaskLogger-16c09e4c-2bbb-44b4-9533-c0ff0f72f096 - DemoTask: Progress - Processing step 2 of 14, 14%
+2025-06-09 22:24:36.453 [pool-1-thread-2] INFO  TaskLogger-16c09e4c-2bbb-44b4-9533-c0ff0f72f096 - DemoTask: Progress - Processing step 3 of 14, 21%
+2025-06-09 22:24:36.775 [pool-1-thread-2] INFO  TaskLogger-16c09e4c-2bbb-44b4-9533-c0ff0f72f096 - DemoTask: Progress - Processing step 4 of 14, 28%
+2025-06-09 22:24:36.776 [pool-1-thread-2] ERROR TaskLogger-16c09e4c-2bbb-44b4-9533-c0ff0f72f096 - DemoTask: Simulated failure at step 5.

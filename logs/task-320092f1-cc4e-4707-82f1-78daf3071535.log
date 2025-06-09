@@ -1,0 +1,6 @@
+2025-06-09 22:24:34.596 [pool-1-thread-1] INFO  TaskLogger-320092f1-cc4e-4707-82f1-78daf3071535 - DemoTask: Starting execution for task 'TaskB' (ID: 320092f1-cc4e-4707-82f1-78daf3071535).
+2025-06-09 22:24:34.731 [pool-1-thread-1] INFO  TaskLogger-320092f1-cc4e-4707-82f1-78daf3071535 - DemoTask: Progress - Processing step 1 of 12, 8%
+2025-06-09 22:24:34.893 [pool-1-thread-1] INFO  TaskLogger-320092f1-cc4e-4707-82f1-78daf3071535 - DemoTask: Progress - Processing step 2 of 12, 16%
+2025-06-09 22:24:35.255 [pool-1-thread-1] INFO  TaskLogger-320092f1-cc4e-4707-82f1-78daf3071535 - DemoTask: Progress - Processing step 3 of 12, 25%
+2025-06-09 22:24:35.373 [pool-1-thread-1] INFO  TaskLogger-320092f1-cc4e-4707-82f1-78daf3071535 - DemoTask: Progress - Processing step 4 of 12, 33%
+2025-06-09 22:24:35.373 [pool-1-thread-1] ERROR TaskLogger-320092f1-cc4e-4707-82f1-78daf3071535 - DemoTask: Simulated failure at step 5.

@@ -1,0 +1,2 @@
+2025-06-09 22:24:35.569 [pool-1-thread-2] INFO  TaskLogger-c10cbf36-8ae9-4adf-9cc9-d7d5403b9694 - DemoTask: Starting execution for task 'TaskA' (ID: c10cbf36-8ae9-4adf-9cc9-d7d5403b9694).
+2025-06-09 22:24:35.569 [pool-1-thread-2] ERROR TaskLogger-c10cbf36-8ae9-4adf-9cc9-d7d5403b9694 - DemoTask: Simulated failure at step 1.

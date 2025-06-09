@@ -1,0 +1,7 @@
+2025-06-09 22:24:35.161 [pool-1-thread-4] INFO  TaskLogger-b7e52383-ef8a-4f5e-92db-762461b70335 - DemoTask: Starting execution for task 'TaskE' (ID: b7e52383-ef8a-4f5e-92db-762461b70335).
+2025-06-09 22:24:35.637 [pool-1-thread-4] INFO  TaskLogger-b7e52383-ef8a-4f5e-92db-762461b70335 - DemoTask: Progress - Processing step 1 of 5, 20%
+2025-06-09 22:24:36.044 [pool-1-thread-4] INFO  TaskLogger-b7e52383-ef8a-4f5e-92db-762461b70335 - DemoTask: Progress - Processing step 2 of 5, 40%
+2025-06-09 22:24:36.372 [pool-1-thread-4] INFO  TaskLogger-b7e52383-ef8a-4f5e-92db-762461b70335 - DemoTask: Progress - Processing step 3 of 5, 60%
+2025-06-09 22:24:36.844 [pool-1-thread-4] INFO  TaskLogger-b7e52383-ef8a-4f5e-92db-762461b70335 - DemoTask: Progress - Processing step 4 of 5, 80%
+2025-06-09 22:24:37.048 [pool-1-thread-4] INFO  TaskLogger-b7e52383-ef8a-4f5e-92db-762461b70335 - DemoTask: Progress - Processing step 5 of 5, 100%
+2025-06-09 22:24:37.048 [pool-1-thread-4] INFO  TaskLogger-b7e52383-ef8a-4f5e-92db-762461b70335 - DemoTask: Completed successfully for task 'TaskE' (ID: b7e52383-ef8a-4f5e-92db-762461b70335).

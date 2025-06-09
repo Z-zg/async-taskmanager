@@ -1,0 +1,2 @@
+2025-06-09 22:24:34.751 [pool-1-thread-2] INFO  TaskLogger-3026379e-94e0-435e-baad-a0d0f8cbf31a - DemoTask: Starting execution for task 'TaskC' (ID: 3026379e-94e0-435e-baad-a0d0f8cbf31a).
+2025-06-09 22:24:34.752 [pool-1-thread-2] ERROR TaskLogger-3026379e-94e0-435e-baad-a0d0f8cbf31a - DemoTask: Simulated failure at step 1.

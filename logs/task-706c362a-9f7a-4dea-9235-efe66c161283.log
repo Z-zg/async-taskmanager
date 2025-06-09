@@ -1,0 +1,7 @@
+2025-06-09 22:24:36.384 [pool-1-thread-5] INFO  TaskLogger-706c362a-9f7a-4dea-9235-efe66c161283 - DemoTask: Starting execution for task 'TaskD' (ID: 706c362a-9f7a-4dea-9235-efe66c161283).
+2025-06-09 22:24:36.575 [pool-1-thread-5] INFO  TaskLogger-706c362a-9f7a-4dea-9235-efe66c161283 - DemoTask: Progress - Processing step 1 of 5, 20%
+2025-06-09 22:24:36.844 [pool-1-thread-5] INFO  TaskLogger-706c362a-9f7a-4dea-9235-efe66c161283 - DemoTask: Progress - Processing step 2 of 5, 40%
+2025-06-09 22:24:37.334 [pool-1-thread-5] INFO  TaskLogger-706c362a-9f7a-4dea-9235-efe66c161283 - DemoTask: Progress - Processing step 3 of 5, 60%
+2025-06-09 22:24:37.507 [pool-1-thread-5] INFO  TaskLogger-706c362a-9f7a-4dea-9235-efe66c161283 - DemoTask: Progress - Processing step 4 of 5, 80%
+2025-06-09 22:24:37.850 [pool-1-thread-5] INFO  TaskLogger-706c362a-9f7a-4dea-9235-efe66c161283 - DemoTask: Progress - Processing step 5 of 5, 100%
+2025-06-09 22:24:37.851 [pool-1-thread-5] INFO  TaskLogger-706c362a-9f7a-4dea-9235-efe66c161283 - DemoTask: Completed successfully for task 'TaskD' (ID: 706c362a-9f7a-4dea-9235-efe66c161283).
